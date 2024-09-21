@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAppEjercicioInd2</string>
+    <string name="by_jonny_java">by Jonny JaVa</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="login">Login</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+    <string name="apellido">Apellido</string>
+    <string name="nombre">Nombre</string>
+    <string name="todo">TODO</string>
+</resources>
